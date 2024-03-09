@@ -1,7 +1,7 @@
 # LG-Aimers
 
 
->  : [http://voluntain.cs.skku.edu/](http://voluntain.cs.skku.edu/](https://lgaimers.elice.io/explore)) <br>
+>  : [https://www.lgaimers.ai](http://voluntain.cs.skku.edu/](https://lgaimers.elice.io/explore)) <br>
 
 
 <div align="center">
